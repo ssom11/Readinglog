@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html?
+<head>
+  <title>whenbreathebecomesair</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<h1>
+   숨결이 바람될 때
+<a href="index.html" class="button">목차</a>
+</h1>
+
+<ul>
+  <li><h3>작가</h3></li>
+<h3>폴 칼라티니</h3>
+<li><h3>출판일</h3></li>
+<h3>2016년</h3>
+<li><h3>감상평에 대한 AI그림</h3></li>
+<h3>폴 칼라티니의 수술 경험과 진료 경험에 대한 내용은 매우 흥미로웠다. 이런 내용에서 의사와 환자의 관계, 생명을 지켜야 한다는 의사의 소명 의식과 두 개의 선로를 잘 연결해서 환자가 순조로운 기차 여행을 하도록 돕는 의사의 역할, 죽음을 늦추거나 환자에게 예전의 삶을 돌려주는 것이 의무가 아니라 삶이 무너져 버린 환자와 그 가족을 가슴에 품고 그들이 다시 일어나 자신들이 처한 실존적 상황을 마주 보고 이해할 수 있을 때까지 돕는 것이 의무라는 배웠다. 폴이 암 선고를 받은 후 방황할 때에는 나는 과연 저런 상황에 처한다면 어떤 선택을 하고 남은 삶을 어떻게 살아갈까라는 의문이 생겼다. 폴 칼라티니가 어려움을 극복하고 열심히 사는 것을 보고 정말 멋지고 대단하다는 생각을 했고, 나도 본받아서 나중에 실패를 경험했을 때 극복하고 일어나야겠다는 다짐을 했다<br>
+</h3>
+<img src="Paul Kalanithi, a physician who overcame adversity and continued to live passionately despite a terminal diagnosis, focusing on his professional calling and the relationship between doctors and patients.png" alt=숨결이바람될때">
+<li><h3>감상평에 대한 AI평가</h3></li>
+<h3>        <br>
+  &#10024;     <br>
+  &#10024;     <br>
+  &#10024;     <br>
+  </h3>
+</ul>
+
+</body>
+</html>
+ 
